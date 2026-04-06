@@ -1,5 +1,7 @@
 claude/projects
 claude/sessions
 claude/backups
-claude/shell-sessions
+claude/shell-snapshots
 claude/statsig
+claude/file-history
+claude/ide
