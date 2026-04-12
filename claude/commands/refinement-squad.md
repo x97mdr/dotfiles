@@ -1,4 +1,4 @@
-Run a Three Amigos refinement review for the Jira epic: $ARGUMENTS
+Run a Refinement Squad review for the Jira epic: $ARGUMENTS
 
 Follow these steps in order:
 
