@@ -5,3 +5,8 @@ claude/shell-snapshots
 claude/statsig
 claude/file-history
 claude/ide
+claude/cache/
+claude/history.jsonl
+claude/paste-cache/
+claude/plans/
+claude/plugins/marketplaces/
