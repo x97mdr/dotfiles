@@ -81,7 +81,7 @@ mindmap
 Ask the user:
 "Shall I create Jira epics for the top opportunities so `/refinement-squad` can refine them into stories? (yes/no)"
 
-If yes: use the Atlassian MCP (`mcp__claude_ai_Atlassian_Rovo__createJiraIssue`) to create one epic per top-level opportunity. For each epic:
+If yes: use the Atlassian MCP (`mcp__atlassian-rovo__createJiraIssue`) to create one epic per top-level opportunity. For each epic:
 - **Summary**: the opportunity statement (customer language)
 - **Description**: solution directions from the OST + the experiment to run first + link to the source PRD
 - **Issue type**: Epic

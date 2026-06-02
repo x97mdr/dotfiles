@@ -28,10 +28,11 @@ Present the synthesis to the user and ask:
 Use @agent-jira-writer to post the review results as comments and labels on each story and the epic.
 
 Report the Jira URLs of all updated issues when complete.
-```
 
 ---
 
-## How You'd Use It
+## Usage
+
 ```
-/three-amigos PROJ-42
+/refinement-squad PROJ-42
+```
